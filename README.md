@@ -2,6 +2,9 @@
 
 Supports in-app banner advertising features with just a few lines of code.
 
+[![Latest version](https://img.shields.io/badge/Latest%20version-v0.0.1-blue.svg)](https://bintray.com/exads/maven/exoclick-sdk-legacy/)
+
+
 ### Features
  * Banners
 
