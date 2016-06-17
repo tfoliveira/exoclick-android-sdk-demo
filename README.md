@@ -91,10 +91,6 @@ mExoclickBannerWebview = (ExoclickBannerWebView) findViewById(R.id.exoclickBanne
 ```
 onResume
 ```
+ //mExoclickBannerWebview.init(this, "adIdzone", "adWidth", "adHeight").isClosable(true);
  mExoclickBannerWebview.init(this, "399968", "300", "250").isClosable(true);
 ```
-
-### Android Admin Panel app
-Now you can access your ExoClick account from the palm of your hand with the Admin Panel App for Android. The free App allows ExoClick advertisers and publishers to access their accounts and view a selection of data from their smartphones and tablets. Just log in with your username and password and select either the Advertiser or Publisher options.
-
-Get the Admin Panel app from the [Google Play Store](https://play.google.com/store/apps/details?id=com.exoclick.admin&hl=en).
